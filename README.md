@@ -1,1 +1,1 @@
-# Sales-Inventory-Management-C-
+# Sales and Inventory Management
