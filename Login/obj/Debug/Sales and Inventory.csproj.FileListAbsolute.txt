@@ -1,0 +1,298 @@
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\obj\Debug\Sales and Inventory.csprojResolveAssemblyReference.cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\obj\Debug\Project.View.AddProductView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\obj\Debug\Project.View.EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\obj\Debug\Project.View.LoginView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\obj\Debug\Project.View.ManagerView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\obj\Debug\Project.View.RemoveProduct.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 2\Login\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Project.View.AddProductView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Project.View.EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Project.View.LoginView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Project.View.ManagerView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Project.View.RemoveProduct.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Project.View.AddEmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Sales and Inventory.csprojResolveAssemblyReference.cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 3\Login\Login\obj\Debug\Project.View.AllEmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Project.View.AddEmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Project.View.AddProductView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Project.View.AllEmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Project.View.EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Project.View.LoginView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Project.View.ManagerView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Project.View.RemoveProduct.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 4\Login\Login\obj\Debug\Project.View.AllProductView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Sales and Inventory.csprojResolveAssemblyReference.cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.View.AddEmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.View.AddProductView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.View.AllEmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.View.AllProductView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.View.EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.View.LoginView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.View.ManagerView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.View.RemoveProductView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 5\Login\obj\Debug\Project.View.RemoveEmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Sales and Inventory.csprojResolveAssemblyReference.cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.View.AddEmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.View.AllEmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.View.AllProductView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.View.RemoveEmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.View.RemoveProductView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.View.EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.View.LoginView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.View.ManagerView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 6\Login\obj\Debug\Project.View.AddProductForm.resources
+C:\Users\imtia\Desktop\Iteration 6\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\Iteration 6\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\Iteration 6\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\Iteration 6\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\Iteration 6\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\Iteration 6\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.View.AddEmployeeView.resources
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.View.AddProductView.resources
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.View.AllEmployeeView.resources
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.View.AllProductView.resources
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.View.RemoveEmployeeView.resources
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.View.RemoveProductView.resources
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.View.EmployeeView.resources
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.View.LoginView.resources
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.View.ManagerView.resources
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\Iteration 6\Login\obj\Debug\Sales and Inventory.csprojResolveAssemblyReference.cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.View.Remove_EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.View.All_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.View.Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.View.Login_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.View.Manager_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.View.Add_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.View.Add_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.View.All_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.View.Remove_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Sales and Inventory.csprojResolveAssemblyReference.cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.View.Refund_Products_Class_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 9\Login\obj\Debug\Project.View.All_Refund_Products_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.View.Add_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.View.Add_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.View.All_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.View.All_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.View.Refund_Products_Class_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.View.All_Refund_Products_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.View.Remove_EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.View.Remove_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.View.Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.View.Login_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.View.Manager_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 10\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.View.Add_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.View.Add_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.View.All_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.View.All_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.View.Refund_Products_Class_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.View.All_Refund_Products_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.View.Remove_EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.View.Remove_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.View.Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.View.Login_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.View.Manager_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 11\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Sales and Inventory.csprojResolveAssemblyReference.cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.Add_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.Add_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.All_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.All_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.Refund_Products_Class_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.All_Refund_Products_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.Remove_EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.Remove_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.Login_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.Manager_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.View.Sell_Product.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 12\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.Add_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.Add_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.All_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.All_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.All_Refund_Products_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.Remove_EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.Remove_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.Login_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.Manager_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.Sell_Product.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Sales and Inventory.csprojResolveAssemblyReference.cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.Add_Refund_Products_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 13\Login\obj\Debug\Project.View.All_Sales_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Sales and Inventory.csprojResolveAssemblyReference.cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.Add_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.Add_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.All_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.All_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.All_Refund_Products_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.Add_Refund_Products_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.All_Sales_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.Remove_EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.Remove_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.Login_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.Manager_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.View.Sell_Product.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 14\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\Project.exe.config
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\MetroFramework.Design.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\MetroFramework.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.Properties.Resources.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Add_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Add_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.All_Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.All_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.All_Refund_Products_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Add_Refund_Products_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.All_Sales_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Remove_EmployeeView.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Remove_Product_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Employee_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Login_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Manager_View.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Sell_Product.resources
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.Cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.exe
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.pdb
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Sales and Inventory.csprojAssemblyReference.cache
+C:\Users\imtia\Desktop\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Sales and Inventory.csproj.CopyComplete
+D:\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\Project.exe.config
+D:\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\Project.exe
+D:\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\Project.pdb
+D:\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\MetroFramework.Design.dll
+D:\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\MetroFramework.dll
+D:\C# project\Sales and inventory management system\Iteration 15\Login\bin\Debug\MetroFramework.Fonts.dll
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Sales and Inventory.csprojAssemblyReference.cache
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.Properties.Resources.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Add_Employee_View.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Add_Product_View.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.All_Employee_View.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.All_Product_View.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.All_Refund_Products_View.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Add_Refund_Products_View.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.All_Sales_View.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Remove_EmployeeView.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Remove_Product_View.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Employee_View.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Login_View.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Manager_View.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.View.Sell_Product.resources
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Sales and Inventory.csproj.GenerateResource.cache
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Sales and Inventory.csproj.CoreCompileInputs.cache
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Sales and Inventory.csproj.CopyComplete
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.exe
+D:\C# project\Sales and inventory management system\Iteration 15\Login\obj\Debug\Project.pdb
